@@ -1,4 +1,4 @@
-<div align="center"><h1>🧚‍♂️ 𝐒𝐈𝐓𝐇𝐔𝐖𝐀-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
+<div align="center"><h1>💕 isea-ke 💕</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SITHUWA+MD+WHATSAPP+BOT" alt="">
@@ -90,7 +90,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=+254796979806&env[MONGODB_URI]&&env[OWNER_NAME]=isea&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=isea-ke;BY-iseaA&name=isea&env[KOYEB_NAME]=isea&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -154,7 +154,7 @@
 
 # Developers
 
-<h2 align="center">SITHUWA-MD
+<h2 align="center">isea-ke
 </h2>
 
   <p align="center">
