@@ -21,7 +21,7 @@
   
 ***
 
-## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
+## ponyeza hapo chini ili kupata QR code.
 
 <div align="left"><a href="https://replit.com/@kipronoemmanuel/iseake-1#Console"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
 
@@ -29,10 +29,10 @@
 ⚠️ kwa maelezo zaidi, uliza anaye fahamu IT vyema. | ponyeza hapo chini.
 ```
 
-## Click the button below to deploy. | Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
+## ponyeza hapo chini ili kudeploy. | kudeploy .
  
  <details close>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗖𝗛𝗢𝗜𝗦𝗘 𝗬𝗢𝗨𝗥 𝗙𝗔𝗩𝗢𝗨𝗥𝗜𝗧𝗘 𝗣𝗟𝗔𝗧𝗙𝗥𝗢𝗠 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+<summary>ponyeza ulipendalo ili KUD𝗘𝗣𝗟𝗢𝗬</summary>
  
 <br><br>   
    
@@ -159,7 +159,7 @@
 
   <p align="center">
     
-| <a href="https://www.facebook.com/photo?fbid=306078975450571&set=a.102390952486042.jpg" width=100 height=100></a> |
+| <a href="https://www.facebook.com/photo?fbid=306078975450571&set=a.102390952486042.jpg"><img src="https://www.facebook.com/profile.php?id=100081454115153 width=100 height=100></a> |
 |---|
 | **[isea-ke](https://github.com/iseake)**</br>Founder & Developer</br>*[isea-ke]* |
   </p>
