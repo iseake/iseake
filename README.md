@@ -6,16 +6,16 @@
 
 ***
 
-<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Followers" src="https://img.shields.io/github/followers/Sithuwa?e=flat-square">
-<a href="https://github.com/Sithuwa/SITHUWA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sithuwa/SITHUWA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sithuwa/SITHUWA-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/SITHUWA-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/iseake/iseake"><img title="Followers" src="https://img.shields.io/github/followers/iseake?e=flat-square">
+<a href="https://github.com/iseke/iseake/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/iseake/iseake?color=blue&style=flat-square"></a>
+<a href="https://github.com/iseake/iseake/network/members"><img title="Forks" src="https://img.shields.io/github/forks/iseake/iseake?color=red&style=flat-square"></a>
+<a href="https://github.com/iseake/iseake/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/iseake/iseake?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/iseake/iseake"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/iseake?style=flat-square&color=green"></a>
 ---
-<a align="center"><img src="https://profile-counter.glitch.me/SITHUWA-MD/count.svg" /></a>
+<a align="center"><img src="https://profile-counter.glitch.me/iseake/count.svg" /></a>
 
-<a href="https://m.facebook.com/100049977400815/"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
-<a href="https://www.youtube.com/channel/UCVwddJDhIDa4FaWM717xaAQ"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube%20-lightgrey?style=for-the-badge&logo=YouTube&logoColor=red"/></a>
+<a href="https://www.facebook.com/profile.php?id=100081454115153"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
+<a href="https://www.youtube.com/channel/UCFC9FIIqPxJ0r5Zut8YjT6g"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube%20-lightgrey?style=for-the-badge&logo=YouTube&logoColor=red"/></a>
 <a href="https://chat.whatsapp.com/IZpUGOxDi9vEogXXyY9Mpi"><img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp%20-lightgrey?style=for-the-badge&logo=Whatsapp&logoColor=Green"/></a>
 
   
@@ -23,7 +23,7 @@
 
 ## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
 
-<div align="left"><a href="https://replit.com/@SithumKalhara/SITHUWA-MD#Console"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@kipronoemmanuel/iseake-1#Console"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
 
 ```bash
 ⚠️ kwa maelezo zaidi, uliza anaye fahamu IT vyema. | ponyeza hapo chini.
@@ -40,7 +40,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Sithuwa/SITHUWA-MD">
+    <a href="https://repl.it/github/iseake/iseake">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Repl.it" >
     </a>
 </p>
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sithuwa/SITHUWA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/iseake/iseake">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
