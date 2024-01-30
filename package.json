@@ -7,9 +7,9 @@
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name SITHUWA-MD",
-                "stop": "pm2 stop SITHUWA-MD"
+                "stop": "pm2 stop isea"
                 },
-               "author": "SITHUM-KALHARA",
+               "author": "isea-ke",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -102,7 +102,7 @@
                  "url": "git+https://github.com/Sithuwa/SITHUWA-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/Sithuwa/SITHUWA-MD/issues"
+                 "url": "https://github.com/iseake/SITHUWA-MD/issues"
                   },
-                 "homepage": "https://github.com/Sithuwa/SITHUWA-MD#readme"
+                 "homepage": "https://github.com/iseake#readme"
                   }
