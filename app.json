@@ -1,14 +1,14 @@
 {
-  "name": "SITHUWA-MD",
+  "name": "isea",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Sithuwa Bot", "sithuwa","SITHUWA-MD","theme bot","multi device","baileys","Sithum Kalhara"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "isea Bot", "isea","isea","theme bot","multi device","baileys","isea"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": "isea"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -70,10 +70,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94761516805"
+       "value": "254796979806"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to SITHUWA-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to isea github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -85,8 +85,8 @@
     "value": "mongodb+srv://SithumKalhara:97531@cluster0.iva7dbo.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable theme are sithuwa-md.(AVOID CHANGING)",
-     "value": "sithuwa-md"
+    "description": "Put the theme name you want to use. Avilable theme are isea.(AVOID CHANGING)",
+     "value": "isea"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
