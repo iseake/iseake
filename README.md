@@ -1,4 +1,4 @@
-<div align="center"><h1>💕 isea-ke 💕</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
+<div align="center"><h1>💕 isea-ke 💕</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/photo_2023-10-29_23-20-34.jpg" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=isea+ke+WHATSAPp+BOT" alt="">
