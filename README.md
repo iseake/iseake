@@ -159,7 +159,7 @@
 
   <p align="center">
     
-| <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/e76957eb944d94553a0c5.jpg" width=100 height=100></a> |
+| <a href="https://www.facebook.com/photo?fbid=355777540480714&set=a.102390952486042).jpg" width=100 height=100></a> |
 |---|
 | **[isea-ke](https://github.com/iseake)**</br>Founder & Developer</br>*[isea-ke]* |
   </p>
