@@ -1,4 +1,4 @@
-<div align="center"><h1>💕 isea-ke 💕</h1><a href="https://github.com/iseake/isea-bot"><img src="https://t.me/hiseah/23" width="650" height="450"></a></div>
+<div align="center"><h1>💕 isea-ke 💕</h1><a href="https://t.me/hiseah/23"><img src="https://t.me/hiseah/23" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=isea+ke+WHATSAPp+BOT" alt="">
