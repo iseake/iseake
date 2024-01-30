@@ -26,7 +26,7 @@
 <div align="left"><a href="https://replit.com/@SithumKalhara/SITHUWA-MD#Console"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
 
 ```bash
-⚠️ if there any error please infrom it support group. | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+⚠️ kwa maelezo zaidi, uliza anaye fahamu IT vyema. | ponyeza hapo chini.
 ```
 
 ## Click the button below to deploy. | Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
@@ -161,6 +161,6 @@
     
 | <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/e76957eb944d94553a0c5.jpg" width=100 height=100></a> |
 |---|
-| **[Sithum Kalhara](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[Sithum Kalhara]* |
+| **[isea-ke](https://github.com/iseake)**</br>Founder & Developer</br>*[isea-ke]* |
   </p>
 
