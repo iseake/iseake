@@ -44,8 +44,7 @@ I love turning real-world problems into smart digital solutions.
 
 ## 📬 Get In Touch
 - 📧 Email: kipronoemmanuel295@gmail.com
-- 📱 Call: +254 110 942 307
--[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254110942307)
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254110942307)📱 Call: +254 110 942 307
 
 ---
 
